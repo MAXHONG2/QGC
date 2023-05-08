@@ -192,9 +192,9 @@ const cn = {
     Name: "插件",
   },
   Mask: {
-    Name: "面具",
+    Name: "全过程工程常问问题",
     Page: {
-      Title: "预设角色面具",
+      Title: "预设问题",
       SubTitle: (count: number) => `${count} 个预设角色定义`,
       Search: "搜索角色面具",
       Create: "新建",
@@ -209,7 +209,7 @@ const cn = {
     },
     EditModal: {
       Title: (readonly: boolean) =>
-        `编辑预设面具 ${readonly ? "（只读）" : ""}`,
+        `编辑预设问题 ${readonly ? "（只读）" : ""}`,
       Download: "下载预设",
       Clone: "克隆预设",
     },
