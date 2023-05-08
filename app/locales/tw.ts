@@ -188,11 +188,11 @@ const tw: LocaleType = {
   },
   Plugin: { Name: "插件" },
   Mask: {
-    Name: "面具",
+    Name: "全过程工程常问问题",
     Page: {
-      Title: "预设角色面具",
+      Title: "预设角色问题",
       SubTitle: (count: number) => `${count} 个预设角色定义`,
-      Search: "搜索角色面具",
+      Search: "搜索角色问题",
       Create: "新建",
     },
     Item: {
